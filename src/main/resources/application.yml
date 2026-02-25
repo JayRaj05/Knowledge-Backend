@@ -1,0 +1,44 @@
+#spring:
+#  datasource:
+#    url: jdbc:mysql://localhost:3306/knowledge_db?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+#    username: root
+#    password: sai@9079
+#  jpa:
+#    hibernate:
+#      ddl-auto: update
+#    show-sql: true
+#    properties:
+#      hibernate:
+#        format_sql: true
+#
+#server:
+#  port: 8080
+#
+#app:
+#   jwt:
+#    secret: "63f4945d921d599f27ae4fdf5bada3f1"
+#    expiration-ms: 86400000
+#
+
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/knowledge_db?createDatabaseIfNotExist=true&useSSL=false&serverTimezone=UTC
+    username: root
+    password: "sai@9079"
+
+  jpa:
+    hibernate:
+      ddl-auto: update
+    show-sql: true
+    properties:
+      hibernate:
+        format_sql: true
+
+server:
+  port: 8080
+
+app:
+  jwt:
+    secret: "63f4945d921d599f27ae4fdf5bada3f1"
+    expiration-ms: 86400000
