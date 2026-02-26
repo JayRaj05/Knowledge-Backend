@@ -18,7 +18,7 @@ import org.springframework.web.bind.annotation.RestController;
 @RestController
 @RequestMapping("/api/articles")
 @CrossOrigin
-public class ArticleController {
+public class    ArticleController {
 
     private final ArticleService articleService;
 

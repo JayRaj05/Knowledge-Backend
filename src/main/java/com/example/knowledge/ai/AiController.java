@@ -15,6 +15,7 @@ public class AiController {
 
     private final AiService aiService;
 
+
     public AiController(AiService aiService) {
         this.aiService = aiService;
     }

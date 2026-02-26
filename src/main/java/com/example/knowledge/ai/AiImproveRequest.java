@@ -1,7 +1,10 @@
 package com.example.knowledge.ai;
 
 import jakarta.validation.constraints.NotBlank;
+import lombok.*;
 
+@AllArgsConstructor
+@Data
 public class AiImproveRequest {
 
     private String currentTitle;

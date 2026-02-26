@@ -1,29 +1,29 @@
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\ai\AiController.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\ai\AiImproveRequest.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\ai\AiImproveResponse.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\ai\AiService.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\ai\AiSummaryRequest.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\ai\AiSummaryResponse.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\ai\AiTagsResponse.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\article\Article.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\article\ArticleCategory.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\article\ArticleController.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\article\ArticleRepository.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\article\ArticleRequest.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\article\ArticleResponse.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\article\ArticleService.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\auth\AuthController.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\auth\AuthService.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\auth\JwtResponse.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\auth\LoginRequest.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\auth\SignupRequest.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\common\ApiError.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\common\GlobalExceptionHandler.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\config\JwtAuthenticationFilter.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\config\JwtTokenProvider.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\config\SecurityConfig.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\KnowledgeSharingApplication.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\user\CustomUserDetailsService.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\user\RoleName.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\user\User.java
-C:\Users\omkar\Desktop\New project\src\main\java\com\example\knowledge\user\UserRepository.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/KnowledgeSharingApplication.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/ai/AiController.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/ai/AiImproveRequest.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/ai/AiImproveResponse.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/ai/AiService.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/ai/AiSummaryRequest.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/ai/AiSummaryResponse.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/ai/AiTagsResponse.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/article/Article.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/article/ArticleCategory.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/article/ArticleController.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/article/ArticleRepository.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/article/ArticleRequest.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/article/ArticleResponse.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/article/ArticleService.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/auth/AuthController.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/auth/AuthService.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/auth/JwtResponse.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/auth/LoginRequest.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/auth/SignupRequest.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/common/ApiError.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/common/GlobalExceptionHandler.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/config/JwtAuthenticationFilter.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/config/JwtTokenProvider.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/config/SecurityConfig.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/user/CustomUserDetailsService.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/user/RoleName.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/user/User.java
+/Users/vedikadeshmukh/Documents/NewMoneyM/Jayraj Project/Backend /Knowledge-Backend/src/main/java/com/example/knowledge/user/UserRepository.java

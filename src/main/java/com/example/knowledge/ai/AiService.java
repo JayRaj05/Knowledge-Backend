@@ -1,21 +1,39 @@
 package com.example.knowledge.ai;
 
+import lombok.AllArgsConstructor;
+import lombok.Value;
 import org.springframework.stereotype.Service;
+import org.springframework.web.client.RestTemplate;
 
 import java.util.Arrays;
 import java.util.List;
 import java.util.stream.Collectors;
 
+@AllArgsConstructor
 @Service
 public class AiService {
 
+    private final RestTemplate restTemplate;
+
+    private static  final String OPENAPI_URI = "https://api.openai.com/v1/chat/completions";
+
+    @Value("${app.openai.api-key}")
+    private String apikey;
+
+
     public String improveContent(String content) {
-        if (content == null) {
-            return "";
+        try{
+            if (content == null) {
+                return "";
+            }
+            String prompt = " Improve the following content : \n" + content ;
+            return callOpenAI(prompt);
+        } catch (Exception e) {
+            return content.trim()
+                    .replaceAll("\\s+", " ")
+                    + " (Improved by AI mock)";
         }
-        return content.trim()
-                .replaceAll("\\s+", " ")
-                + " (Improved by AI mock)";
+
     }
 
     public String suggestBetterTitle(String currentTitle, String content) {
